@@ -1,0 +1,248 @@
+#linha1 {
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 55px;
+     margin-right: 70px;
+    margin-left: 70px;
+}
+
+#linha2 {
+    display:flex;
+     justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 55px;
+     margin-right: 70px;
+    margin-left: 70px;
+}
+
+#linha3 {
+    display:flex;
+     justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 55px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+#linha4 {
+    display:flex;
+     justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 55px;
+     margin-right: 70px;
+    margin-left: 70px;
+}
+
+#linha5 {
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+     text-align: center;
+     margin-bottom: 55px;
+      margin-right: 70px;
+    margin-left: 70px;
+}
+
+#linha6 {
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 55px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+}
+
+#pag{
+    width: 750px;
+    height: 100px;
+    display: flex;
+    margin-left: 0px;
+}
+
+#redes{
+    height: 150px;
+    width: 300px;
+}
+
+body{
+    background-color:white;
+    
+}
+
+#cabeçalho{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    background-color: #DCDCDC;
+    
+}
+
+p{
+    color: #74c4cf;
+     font-family: 'Cinzel', serif;
+   font-size: 20px;
+}
+
+a{
+    color: #1c1c1c;
+   font-family: 'Cinzel', serif;
+   font-size: 20px;
+}
+
+#rodape{
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: center;
+    color:#1c1c1c;
+    
+}
+
+label{
+    color: #74c4cf;
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+}
+
+h3{
+    color: #44c6b3;
+     font-family: 'Cinzel', serif;
+    font-size: 20px;
+    
+}
+
+h2{
+    color: #39a3b1;
+     font-family: 'Cinzel', serif;
+    font-size: 20px; 
+}
+
+#loginb{
+    background-color: #74c4cf ;
+    color: black;
+     font-family: 'Cinzel', serif; 
+}
+
+#login1{
+    text-align: center;
+}
+
+#login2{
+    text-align: center;
+}
+
+#botao{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#linkcad{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 70px;
+}
+
+#cadastro{
+    text-align: center;
+}
+
+#cadastro2{
+    text-align: center;
+    background-image: "galaxy.jpg";
+}
+#carrinho1{
+    color: #39a3b1;
+   font-family: 'Cinzel', serif;
+   font-size: 20px;
+}
+#titulos{
+    color: #39a3b1;
+   font-family: 'Cinzel', serif;
+   font-size: 15px;
+}
+.produtos{
+   color:#1c1c1c;
+   font-family: 'Cinzel', serif;
+   font-size: 15px;
+}
+.links{
+    color: #1c1c1c;
+   font-family: 'Cinzel', serif;
+   font-size: 15px;
+}
+#carrinho2{
+    color: #39a3b1;
+   font-family: 'Cinzel', serif;
+   font-size: 15px;
+}
+.tt{
+    color:#1c1c1c;
+   font-family: 'Cinzel', serif;
+   font-size: 15px;
+}
+.tv{
+    color: #39a3b1;
+   font-family: 'Cinzel', serif;
+   font-size: 15px;
+}
+#volt{
+    display: flex;
+    justify-content: space-between;
+    color: #39a3b1;
+   font-family: 'Cinzel', serif;
+   font-size: 10px;
+   margin-bottom: 10px;
+}
+.botao{
+    background-color: #74c4cf;
+    color: black;
+    font-family: 'Cinzel', serif;
+}
+#siteCarrinho{
+    text-align: center;
+}
+#carrinho{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+#carrinho3{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+#cadastrar{
+    text-align: center;
+}
+
+#tit{
+    text-align: center;
+}
+
+#produto01{
+    display: flex;
+    justify-content: center;
+}
+
+#produto1{
+    margin-right: 45px;
+}
+
+li{
+    color:#1c1c1c;
+}
+td{
+    color:#1c1c1c;
+}
